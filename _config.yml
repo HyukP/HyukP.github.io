@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Pyeon Dong Hyuk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "_Images/MyImage1.jpg"
   bio              : "I'm 25 years old and majoring in Software at Ajou Univ."
   location         : "수원시 팔달구"
   email            :
