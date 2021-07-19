@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pyeon Dong Hyuk"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm 25 years old and majoring in Software at Ajou Univ."
+  location         : "수원시 팔달구"
   email            :
   links:
     - label: "Email"
